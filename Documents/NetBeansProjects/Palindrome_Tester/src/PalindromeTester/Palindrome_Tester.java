@@ -1,4 +1,5 @@
-
+//Nishat Q
+//Aug 3 2022
 package PalindromeTester;
 import java.util.Scanner;
 
